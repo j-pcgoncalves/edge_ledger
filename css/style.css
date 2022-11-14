@@ -129,7 +129,7 @@ img {
 }
 
 .cases img {
-    max-height: 220px;
+    max-height: 46%;
 }
 
 .cases img:hover {
@@ -191,7 +191,7 @@ img {
 
 .footer .social {
     position: relative;
-    left: 15px;
+    left: 1%;
 }
 
 .footer .social > * {
